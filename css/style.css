@@ -13,6 +13,18 @@ a, a:hover {
   color: #ca8446;
 }
 
-.koffiebruin{
+.koffiebruin, span{
   color: #ca8446;
+}
+.koffiebruin2, span{
+  color: #994b2a;
+}
+
+.justify { 
+  text-align: justify; 
+}
+
+.accordion-button:not(.collapsed) {
+  color: #ca8446;
+  background-color: #fff;
 }
